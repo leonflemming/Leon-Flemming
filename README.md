@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leon Flemming!</h1>
 <h3 align="center">A passionate developer from Germany.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonlfemming" alt="leonlfemming" /></a> </p>
-
 - 🌱 I’m currently learning **to work with Linux.**
 
 - 📫 How to reach me **lflemming@bbw-fi.de**
