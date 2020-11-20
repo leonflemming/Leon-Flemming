@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **to work with Linux.**
 
-- 📫 How to reach me **lflemming@bbw-fi.de**
+- 📫 How to reach me lflemming@bbw-fi.de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
