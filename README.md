@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon Flemming!</h1>
+
 <h3 align="center">A passionate developer from Germany.</h3>
+  <br>
 
 - 🌱 I’m currently learning **to work with Linux.**
 
