@@ -1,4 +1,4 @@
-<h1 align="center">Hi, and welcome to my githubsite, I'm Leon Flemming!</h1>
+<h1 align="center">Hi and welcome to my githubsite, I'm Leon Flemming!</h1>
 
 <h3 align="center">A passionate developer from Germany.</h3>
   <br>
