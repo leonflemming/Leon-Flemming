@@ -1,6 +1,6 @@
 <h1 align="center">Hi, welcome to my githubsite. I'm Leon Flemming!</h1>
 
-<h3 align="center">A passionate developer from Germany.</h3>
+<h3 align="center">A beginner developer from Germany.</h3>
   <br>
 
 - 🌱 I’m currently learning **to work with Linux.**
