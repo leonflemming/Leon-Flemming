@@ -3,7 +3,7 @@
 <h3 align="center">A beginner developer from Germany.</h3>
   <br>
 
-- 🌱 I’m currently learning **to work with Linux.**
+- 🌱 I’m currently learning **to work with MacOS.**
 
 - 📫 You can send me an e-mail! **lflemming@bbw-fi.de**
   <br>
